@@ -16,4 +16,3 @@ def load_paper_dataset():
             processed.append({"input": c, "output": summary})
 
     return Dataset.from_list(processed)
-✅ src/trainer.py
