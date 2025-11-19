@@ -1,0 +1,7 @@
+model_name: "meta-llama/Llama-2-7b-hf"
+lr: 2e-4
+batch_size: 2
+epochs: 3
+lora_r: 16
+lora_alpha: 32
+max_length: 2048
